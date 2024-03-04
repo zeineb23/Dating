@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  width :100%;
+  height : 100%;
 }
 
 .App-logo {
@@ -35,4 +37,21 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+#yes, #no{
+  padding-left: 2%;
+  padding-right: 2%;
+  margin-left : 2%;
+  margin-right : 2%;
+}
+
+#no:hover{
+  transform:translateX(100px);
+  transform:translateY(100px);
+}
+
+img{
+  height : 27%;
+  width : 27%;
 }
