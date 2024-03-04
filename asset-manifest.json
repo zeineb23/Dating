@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dating.git/static/css/main.92a195c6.css",
+    "main.js": "/Dating.git/static/js/main.eac5c51a.js",
+    "index.html": "/Dating.git/index.html",
+    "main.92a195c6.css.map": "/Dating.git/static/css/main.92a195c6.css.map",
+    "main.eac5c51a.js.map": "/Dating.git/static/js/main.eac5c51a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92a195c6.css",
+    "static/js/main.eac5c51a.js"
+  ]
+}
